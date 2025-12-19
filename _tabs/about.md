@@ -1,6 +1,7 @@
 ---
 icon: fas fa-info-circle
 order: 4
+layout: page
 ---
 
 Hi, I’m glad you’re here.
