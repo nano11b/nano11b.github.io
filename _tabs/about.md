@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Hi, I’m glad you’re here.
 
 I’m someone who’s always been driven by curiosity—especially when it comes to technology, systems, and how things work behind the scenes. What started as a personal interest turned into a career path shaped by discipline, problem-solving, and a constant desire to learn and improve.

@@ -4,7 +4,6 @@ date: 2025-06-01 12:00:00
 categories: [About Me]
 tags: [about me, posts]     # TAG names should always be lowercase
 ---
-# My Personal Journey
 
 ## Where It All Started
 
