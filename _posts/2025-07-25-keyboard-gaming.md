@@ -2,7 +2,7 @@
 title: Gaming on Keyboards
 date: 2025-07-25 12:00:00
 categories: [Gaming]
-tags: [gaming,grinding,competitivefps] # TAG names should always be lowercase
+tags: [gaming,grinding,competitive fps] # TAG names should always be lowercase
 ---
 
 Competitive FPS gaming isn’t just a hobby for me—it’s a culture, a mindset, and a constant pursuit of improvement. From the sound of mechanical keys to the rhythm of mouse flicks and callouts, playing multiplayer shooters on a keyboard feels like home.
