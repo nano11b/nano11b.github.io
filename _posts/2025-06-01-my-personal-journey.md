@@ -1,8 +1,9 @@
 ---
 title: My Personal Journey
 date: 2025-06-01 12:00:00
-categories: [About Me]
-tags: [about me, posts]     # TAG names should always be lowercase
+author: 101
+categories: [ABOUT]
+tags: [test]     # TAG names should always be lowercase
 ---
 
 ## Where It All Started
