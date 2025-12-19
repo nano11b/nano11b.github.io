@@ -1,7 +1,6 @@
 ---
 title: Gaming on Keyboards
 date: 2025-07-25 12:00:00
-author: nano11b
 categories: [Gaming]
 tags: [gaming,grinding,competitivefps] # TAG names should always be lowercase
 ---
@@ -47,3 +46,5 @@ That mental discipline is one of the biggest reasons I love this style of play. 
 Controllers have their place, but competitive FPS culture was built around the keyboard and mouse. It rewards mastery, customization, and precision. It pushes players to improve not just mechanically, but mentally.
 
 As long as there are competitive shooters, ranked ladders, scrims, and late-night matches fueled by teamwork and determination, I’ll be there—hands on the keyboard, focused on the next round, chasing improvement one match at a time.
+
+{% include embed/twitch.html id='2604923595' %}
