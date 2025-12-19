@@ -42,3 +42,4 @@ Dedicating compute hours to BOINC is my way of giving back using the skills and 
 As long as there are unanswered questions and problems worth solving, I’ll keep dedicating compute hours to BOINC. It’s quiet work, but it’s important work. And knowing that my systems are helping push science forward—even in a small way—makes it worth every cycle.
 
 If you have unused computing power and a desire to make a difference, BOINC is one of the simplest ways to turn idle time into progress.
+

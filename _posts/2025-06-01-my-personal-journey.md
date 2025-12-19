@@ -1,7 +1,6 @@
 ---
 title: My Personal Journey
 date: 2025-06-01 12:00:00
-author: nano11b
 categories: [Bio]
 tags: [bio,hagiography,journal] # TAG names should always be lowercase
 ---
@@ -41,3 +40,4 @@ My background allows me to approach challenges with both technical precision and
 This journey is far from over. Technology continues to evolve, and so do I. My goal is to keep growing, keep learning, and keep building solutions that make a real difference. Whether through secure infrastructure, thoughtful system design, or sharing knowledge through this blog, I’m committed to progress.
 
 If there’s one thing my journey has taught me, it’s that persistence, integrity, and curiosity can take you further than talent alone. This blog is a place to share that journey—where I’ve been, what I’ve learned, and where I’m headed next.
+
