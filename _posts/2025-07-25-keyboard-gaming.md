@@ -1,7 +1,7 @@
 ---
 title: Gaming on Keyboards
 date: 2025-07-25 12:00:00
-author: 101
+author: nano11b
 categories: [Gaming]
 tags: [gaming,grinding,competitivefps] # TAG names should always be lowercase
 ---

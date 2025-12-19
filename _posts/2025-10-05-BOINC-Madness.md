@@ -1,7 +1,7 @@
 ---
 title: BOINC Madness
 date: 2025-10-05 12:00:00
-author: 101
+author: nano11b
 categories: [Technology]
 tags: [science,computing,boinc] # TAG names should always be lowercase
 ---

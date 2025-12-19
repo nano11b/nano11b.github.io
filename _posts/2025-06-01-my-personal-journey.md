@@ -1,7 +1,7 @@
 ---
 title: My Personal Journey
 date: 2025-06-01 12:00:00
-author: 101
+author: nano11b
 categories: [Bio]
 tags: [bio,hagiography,journal] # TAG names should always be lowercase
 ---
