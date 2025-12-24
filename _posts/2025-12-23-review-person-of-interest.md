@@ -1,5 +1,5 @@
 ---
-title: Review: Person of Interest
+title: Review - Person of Interest
 date: 2025-12-23 06:00:00
 category: [Film_Reviews]
 tags: [tv series, entertainment, film review]
