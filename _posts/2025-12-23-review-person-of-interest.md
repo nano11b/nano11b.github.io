@@ -1,13 +1,13 @@
 ---
 title: Review: Person of Interest
-date: 12-23-2025 12:00
+date: 2025-12-23 06:00:00
 category: [Film_Reviews]
 tags: [tv series, entertainment, film review]
 ---
 
 # ⭐ Person of Interest — A Standout Series Review
 
-**[Person of Interest](chatgpt://generic-entity?number=0)** is a rare television series that not only delivers gripping entertainment but also grows smarter, deeper, and more ambitious with every season. What begins as a procedural crime drama steadily transforms into a sophisticated exploration of technology, morality, and human agency—without ever losing its emotional core.
+**Person of Interest** is a rare television series that not only delivers gripping entertainment but also grows smarter, deeper, and more ambitious with every season. What begins as a procedural crime drama steadily transforms into a sophisticated exploration of technology, morality, and human agency—without ever losing its emotional core.
 
 ---
 
