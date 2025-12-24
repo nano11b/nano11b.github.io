@@ -7,7 +7,7 @@ tags: movie review, film review, entertainment]
 
 # 🎬 Cryo — A Thoughtful, If Uneven Sci-Fi Thriller
 
-**[Cryo](chatgpt://generic-entity?number=0)** is a restrained science-fiction mystery that leans more on atmosphere and ideas than spectacle. While it doesn’t always fully capitalize on its premise, the film offers enough intrigue and thoughtful moments to make it a worthwhile watch—especially for fans of slow-burn sci-fi.
+**Cryo** is a restrained science-fiction mystery that leans more on atmosphere and ideas than spectacle. While it doesn’t always fully capitalize on its premise, the film offers enough intrigue and thoughtful moments to make it a worthwhile watch—especially for fans of slow-burn sci-fi.
 
 ---
 
