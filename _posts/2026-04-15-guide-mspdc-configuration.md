@@ -1,5 +1,5 @@
 ---
-title: How To: Configure MS Primary Domain Controller (MS-PDC)
+title: Configure MS Primary Domain Controller (MS-PDC)
 date: 2026-04-14 12:00:00
 categories: [Technology]
 tags: [guides,science,computing] # TAG names should always be lowercase
