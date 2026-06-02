@@ -47,4 +47,3 @@ Controllers have their place, but competitive FPS culture was built around the k
 
 As long as there are competitive shooters, ranked ladders, scrims, and late-night matches fueled by teamwork and determination, I’ll be there—hands on the keyboard, focused on the next round, chasing improvement one match at a time.
 
-{% include embed/twitch.html id='2604923595' %}
